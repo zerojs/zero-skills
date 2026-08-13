@@ -1,0 +1,4 @@
+interface:
+  display_name: "Easy Learn"
+  short_description: "Generate beginner tutorials with optional infographic plans."
+  default_prompt: "Use zero-easy-learn to explain Docker from an elementary-school perspective."
